@@ -6,6 +6,8 @@ if PlaceId == 4954752502 then
     loadstring(game:HttpGet"https://raw.githubusercontent.com/deitypussy/GAME/Loader/TowerofMisery.luarin")()
 elseif PlaceId == 2202352383 then
     loadstring(game:HttpGet"https://raw.githubusercontent.com/deitypussy/GAME/Loader/SPTSClassic.luarin")()
+elseif PlaceId == 286090429 then
+    loadstring(game:HttpGet"https://raw.githubusercontent.com/deitypussy/GAME/Loader/Arsenal.luarin")()
 else
 
         game.Players.LocalPlayer:Kick("game not supported")
