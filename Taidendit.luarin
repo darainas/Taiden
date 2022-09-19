@@ -3,9 +3,9 @@ print("TAIDEN HUB NO.1")
 repeat wait() until game:IsLoaded()
 local PlaceId = game.PlaceId
 if PlaceId == 4954752502 then
-    loadstring(game:HttpGet"https://raw.githubusercontent.com/pussyhehe/GAME/Loader/TowerofMisery.luarin")()
+    loadstring(game:HttpGet"https://raw.githubusercontent.com/deitypussy/GAME/Loader/TowerofMisery.luarin")()
 elseif PlaceId == 2202352383 then
-    loadstring(game:HttpGet"https://raw.githubusercontent.com/pussyhehe/GAME/Loader/SPTSClassic.luarin")()
+    loadstring(game:HttpGet"https://raw.githubusercontent.com/deitypussy/GAME/Loader/SPTSClassic.luarin")()
 else
 
         game.Players.LocalPlayer:Kick("game not supported")
