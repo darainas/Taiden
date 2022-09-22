@@ -1,18 +1,18 @@
 local placeId = game.PlaceId
 if placeId == 2753915549 or placeId == 4442272183 or placeId == 7449423635 then
-    BF = true
+    loadstring(game:HttpGet"https://raw.githubusercontent.com/deitypussy/GAME/Loader/SixMap.luarin")()
 elseif placeId == 3237168 then
-    OPL = true
+    loadstring(game:HttpGet"https://raw.githubusercontent.com/deitypussy/GAME/Loader/SixMap.luarin")()
 elseif placeId == 914010731 then
-    RO = true
+    loadstring(game:HttpGet"https://raw.githubusercontent.com/deitypussy/GAME/Loader/SixMap.luarin")()
 elseif placeId == 6299805723 then
-    AFS = true
+    loadstring(game:HttpGet"https://raw.githubusercontent.com/deitypussy/GAME/Loader/SixMap.luarin")()
 elseif placeId == 4520749081 or placeId == 6381829480 or placeId == 5931540094 then
-	KL = true
+    loadstring(game:HttpGet"https://raw.githubusercontent.com/deitypussy/GAME/Loader/SixMap.luarin")()
 elseif placeId == 4042427666 then
-    ANS = true
+    loadstring(game:HttpGet"https://raw.githubusercontent.com/deitypussy/GAME/Loader/SixMap.luarin")()
 elseif placeId == 2809202155 then
-    YBA = true
+    loadstring(game:HttpGet"https://raw.githubusercontent.com/deitypussy/GAME/Loader/SixMap.luarin")()
 elseif PlaceId == 2202352383 then
     loadstring(game:HttpGet"https://raw.githubusercontent.com/deitypussy/GAME/Loader/SPTSClassic.luarin")()
 elseif PlaceId == 286090429 then
