@@ -8,6 +8,8 @@ elseif PlaceId == 2202352383 then
     loadstring(game:HttpGet"https://raw.githubusercontent.com/deitypussy/GAME/Loader/SPTSClassic.luarin")()
 elseif PlaceId == 286090429 then
     loadstring(game:HttpGet"https://raw.githubusercontent.com/deitypussy/GAME/Loader/Arsenal.luarin")()
+    elseif PlaceId == 2753915549 or placeId == 4442272183 or placeId == 7449423635 or placeId == 3237168 or placeId == 914010731 or placeId == 6299805723 or placeId == 4520749081 or placeId == 6381829480 or placeId == 5931540094 or placeId == 4042427666 or placeId == 2809202155 then
+    loadstring(game:HttpGet"https://raw.githubusercontent.com/deitypussy/GAME/Loader/SixMap.luarin")()
 else
 
         game.Players.LocalPlayer:Kick("game not supported")
