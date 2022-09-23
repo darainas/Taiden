@@ -1,1 +1,13 @@
---coming soon
+print("Taiden no.1")
+
+repeat wait() until game:IsLoaded()
+if game.PlaceId == 2202352383 then
+	loadstring(game:HttpGet"https://raw.githubusercontent.com/deitypussy/game/Loader/SPTSClassic")()
+elseif game.PlaceId == 4954752502 then
+	loadstring(game:HttpGet"https://raw.githubusercontent.com/deitypussy/game/Loader/TowerofMisery")()
+elseif game.PlaceId == 286090429 then
+	loadstring(game:HttpGet"https://raw.githubusercontent.com/deitypussy/game/Loader/Arsenal")()
+else
+
+    game.Players.LocalPlayer:Kick("game not supported")
+end
