@@ -8,7 +8,6 @@ elseif game.PlaceId == 4954752502 then
 elseif game.PlaceId == 286090429 then
 	loadstring(game:HttpGet"https://raw.githubusercontent.com/deitypussy/game/Loader/Arsenal")()
 elseif game.PlaceId == 2753915549 or PlaceId == 4442272183 or PlaceId == 7449423635 then
-        loadstring(game:HttpGet"https://raw.githubusercontent.com/deitypussy/game/Loader/BloxFruits")()
 else
 
     game.Players.LocalPlayer:Kick("game not supported")
